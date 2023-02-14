@@ -1,8 +1,2 @@
 #!/bin/bash
-ls -t1 | head
-chmod u+x 12-newest_files
-gjt add .
-git add .
-cat > 12-newest_files
-#!/bin/bash
-ls -t1 | head
+ls t1 | head
